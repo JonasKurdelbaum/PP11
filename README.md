@@ -13,7 +13,7 @@ In this exercise you will:
 ---
 
 ## Workflow
-
+ 
 1. **Fork** this repository on GitHub.
 2. **Clone** your fork locally.
 3. Create a `solutions/` directory at the project root:
